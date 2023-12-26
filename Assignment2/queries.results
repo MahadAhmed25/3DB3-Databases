@@ -1,0 +1,260 @@
+
+   Database Connection Information
+
+ Database server        = DB2/LINUXX8664 11.5.6.0
+ SQL authorization ID   = AHMEM73
+ Local database alias   = SE3DB3
+
+
+
+EMPLOYEE_ID ROLE                                    
+----------- ----------------------------------------
+        938 Cardiologist                            
+         12 Cardiologist                            
+       1242 Cardiologist                            
+       1172 Cardiologist                            
+       2224 Cardiologist                            
+        184 Cardiologist                            
+
+  6 record(s) selected.
+
+
+
+Blood Glucose Average                     
+------------------------------------------
+       126.4253571428571428571428571428571
+
+  1 record(s) selected.
+
+
+
+PATIENTID   AdmissionCount
+----------- --------------
+         12              3
+         83              3
+        138              3
+        206              3
+        261              3
+        280              3
+        290              3
+        398              3
+        431              3
+        434              3
+        488              3
+        510              3
+        563              3
+        610              3
+        624              3
+        685              3
+        734              3
+        754              3
+        765              3
+        788              3
+        803              3
+        928              3
+       1010              3
+       1090              3
+       1154              3
+       1159              3
+       1174              4
+       1238              3
+       1254              4
+       1275              3
+       1286              3
+       1304              4
+       1313              3
+       1502              3
+       1505              3
+       1610              3
+       1696              3
+       1844              3
+       1868              3
+       1881              3
+       1931              3
+       2074              3
+       2103              3
+       2115              3
+       2156              3
+       2169              3
+       2324              4
+       2381              3
+       2395              3
+       2399              3
+       2430              3
+       2497              3
+
+  52 record(s) selected.
+
+
+
+TYPE                                     AbnormalTest Count
+---------------------------------------- ------------------
+Blood Test                                              454
+Medical Examination                                      13
+Microbiological Test                                     14
+Urine Test                                               52
+
+  4 record(s) selected.
+
+
+
+PATIENTID   AGE         GENDER              
+----------- ----------- --------------------
+       1200          59 Male                
+
+  1 record(s) selected.
+
+
+
+CATEGORY                                                                                             AVGAGE     
+---------------------------------------------------------------------------------------------------- -----------
+Blood and Lymph                                                                                               36
+Brain, Nerves, and Spinal Cord                                                                                38
+Cancer                                                                                                        39
+Chromosomal Conditions                                                                                        40
+Diabetes                                                                                                      42
+Ears, Nose, and Throat                                                                                        40
+Eyes                                                                                                          42
+Glands                                                                                                        39
+Heart and Blood Vessels                                                                                       38
+Immune System                                                                                                 41
+Infections and Poisoning                                                                                      38
+Injuries                                                                                                      38
+Kidneys, Bladder, and Prostate                                                                                39
+Lungs and Airways                                                                                             40
+Mental Health                                                                                                 39
+Mouth                                                                                                         38
+Muscle, Bone, and Joints                                                                                      38
+Nutrition and Digestive Health                                                                                42
+Sexual and reproductive                                                                                       37
+Skin, Hair, and Nails                                                                                         38
+Stomach, liver and gastrointestinal tract                                                                     39
+
+  21 record(s) selected.
+
+
+
+EMPLOYEE_ID
+-----------
+          3
+         12
+         36
+         45
+        120
+        132
+        187
+        244
+        255
+        264
+        269
+        322
+        364
+        456
+        497
+        564
+        569
+        580
+        658
+        709
+        729
+        942
+        943
+        953
+        991
+        995
+       1112
+       1123
+       1167
+       1172
+       1206
+       1239
+       1302
+       1334
+       1417
+       1544
+       1592
+       1607
+       1641
+       1657
+       1675
+       1757
+       1798
+       1809
+       1818
+       1870
+       1980
+       2058
+       2067
+       2074
+       2119
+       2144
+       2168
+       2178
+       2184
+       2192
+       2294
+       2334
+       2360
+       2470
+       2489
+       2497
+
+  62 record(s) selected.
+
+
+
+PATIENTID   DATE      
+----------- ----------
+       1167 04/05/2019
+       1641 01/18/2010
+        580 01/08/2010
+       2178 04/07/2012
+
+  4 record(s) selected.
+
+
+
+NONBIGTHREECOUNT
+----------------
+           15402
+
+  1 record(s) selected.
+
+
+
+NAME                                     DEPARTMENT_NAME      PATIENTCAPACITY
+---------------------------------------- -------------------- ---------------
+Blossomvale Medical Clinic               Oncology                          94
+Blossomvale Medical Clinic               Cardiology                        13
+Blossomvale Medical Clinic               Dermatology                       16
+Blossomvale Medical Clinic               Neurology                         88
+Blossomvale Medical Clinic               Orthopedics                       39
+Blossomvale Medical Clinic               Gynecology                        61
+Blossomvale Medical Clinic               Emergency                         20
+Blossomvale Medical Clinic               Pediatrics                        41
+Blossomvale Medical Clinic               Psychiatry                        80
+Blossomvale Medical Clinic               Surgery                           38
+Alliance Medical Center                  Oncology                          26
+Alliance Medical Center                  Gynecology                        94
+Alliance Medical Center                  Neurology                         86
+Alliance Medical Center                  Emergency                         98
+Alliance Medical Center                  Psychiatry                        14
+Alliance Medical Center                  Pediatrics                        43
+Alliance Medical Center                  Dermatology                       43
+Alliance Medical Center                  Orthopedics                       30
+Alliance Medical Center                  Cardiology                        39
+Alliance Medical Center                  Surgery                           45
+St. Lukes Healthcare                     Gynecology                        44
+St. Lukes Healthcare                     Dermatology                       93
+St. Lukes Healthcare                     Orthopedics                       62
+St. Lukes Healthcare                     Emergency                         65
+St. Lukes Healthcare                     Pediatrics                        57
+St. Lukes Healthcare                     Neurology                         43
+St. Lukes Healthcare                     Oncology                          58
+St. Lukes Healthcare                     Surgery                           69
+St. Lukes Healthcare                     Cardiology                        44
+St. Lukes Healthcare                     Psychiatry                        33
+
+  30 record(s) selected.
+
+
